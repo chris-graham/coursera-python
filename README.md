@@ -36,3 +36,7 @@ To run the programs, you'll need to click the play icon in the upper left hand c
 5. [Memory](http://www.codeskulptor.org/#user24_PgH9QVA79JiaZkh.py)
 6. [Blackjack](http://www.codeskulptor.org/#user26_jYk8KCtDl6plqbi.py)
 7. [RiceRocks](http://www.codeskulptor.org/#user27_TQQsVk8KNu4tu0b.py)
+
+Future changes
+--------------
+My plans are to port each program to run in a local Python instance using Tkinter starting shortly after Jan. 1st, 2014. I haven't settled on porting to Python 2.7 or Python 3.3. If you have any suggestions or can recommend a good Tkinter resource, you can contact me at chris_graham@acm.org.
