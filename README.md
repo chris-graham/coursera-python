@@ -27,6 +27,8 @@ The second method for running the code is to simply use my link to the program i
 
 Links to programs in Code Skulptor (in chronological order)
 -----------------------------------------------------------
+To run the programs, you'll need to click the play icon in the upper left hand corner.
+
 1. [Rock-Paper-Scissors-Lizard-Spock (RPSLS)](http://www.codeskulptor.org/#user20_IZNNcRCVgK_10.py)
 2. [Guess the Number](http://www.codeskulptor.org/#user21_HlwICLPRe8s3X8v.py)
 3. [Stopwatch - the game](http://www.codeskulptor.org/#user22_ylpQnpHfHApDPlk.py)
